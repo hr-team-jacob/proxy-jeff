@@ -1,0 +1,27 @@
+{
+  "name": "proxy-jeff",
+  "version": "1.0.0",
+  "description": "FEC proxy server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hr-team-jacob/proxy-jeff.git"
+  },
+  "author": "Jeff LaRocque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hr-team-jacob/proxy-jeff/issues"
+  },
+  "homepage": "https://github.com/hr-team-jacob/proxy-jeff#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.11",
+    "path": "^0.12.7"
+  }
+}
